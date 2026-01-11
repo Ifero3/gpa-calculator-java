@@ -26,3 +26,7 @@ Run:
 - input validation, loops, arrays
 - modeling real-world school rules into code
 - readable console UI and reporting
+
+## Why I built this
+I built this project to better understand how GPA rules used in real schools
+can be modeled as clear, logical steps in code.
